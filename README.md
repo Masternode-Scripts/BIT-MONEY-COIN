@@ -1,4 +1,5 @@
-<center><b>BIT MONEY COIN => https://getbitmoney.us</b></center>
+<centre><b>BIT MONEY COIN => https://getbitmoney.us</b></centre>
+
 
 <b>► STEP 1 : CREATE SWAP FILE AND ALLOWING PORT 7070 ON FIREWALL [Copy paste below code as it is and hit enter]</b>
 
